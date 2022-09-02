@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 import static java.lang.System.*;
+//Inicio del programa
 
 public class Interfaz1 implements ActionListener{
 
